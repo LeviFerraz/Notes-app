@@ -27,7 +27,7 @@ cd notes-app
 3.	Install the backend dependencies
 cd backend
 npm install
-4.	Navigate to the frontend/notes-app directory and install dependencies
+4.	Navigate to the frontend/notes-app/node_modules directory and install dependencies
 cd ../frontend/notes-app/node_modules
 npm install
 Running the Application
